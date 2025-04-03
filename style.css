@@ -1,0 +1,22 @@
+/* Navbar */
+.navbar {
+    margin-bottom: 0;
+}
+
+/* Section Content */
+.section-content {
+    background-color: #f8f9fa;
+    height: 1000px;
+    padding: 20px;
+}
+
+/* Mobile Menu */
+#navbar-menu {
+    background-color: #ddd;
+}
+
+@media (max-width: 767px) {
+    #navbar-menu {
+        width: 100%;
+    }
+}
